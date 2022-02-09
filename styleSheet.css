@@ -8,7 +8,7 @@ h1{
     left: 700px;
     top: 2px;
     font-size: 50px;
-    background-color:rgb(246, 190, 0);
+    background-color:rgba(246, 190, 0, 70%);
     color: white;
 }
 li:hover{
@@ -26,4 +26,7 @@ ul{
 img{
     width: 500px;
     height: 500px;
+}
+div{
+    background-color: rgba(0, 0, 0, 70%);
 }
