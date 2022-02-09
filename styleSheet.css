@@ -8,6 +8,22 @@ h1{
     left: 700px;
     top: 2px;
     font-size: 50px;
-    background-color: black;
+    background-color:rgb(246, 190, 0);
     color: white;
+}
+li:hover{
+    color:blue;
+}
+li{
+    color: white;
+}
+ul{
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    background-color:rgb(246, 190, 0);
+}
+img{
+    width: 500px;
+    height: 500px;
 }
