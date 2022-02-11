@@ -11,6 +11,11 @@ h1{
     background-color:rgba(246, 190, 0, 70%);
     color: white;
 }
+h2{
+    width: 300px;
+    font-size: 30px;
+    color: white;
+}
 li:hover{
     color:blue;
 }
@@ -23,10 +28,129 @@ ul{
     text-align: center;
     background-color:rgb(246, 190, 0);
 }
-img{
+.cover{
     width: 500px;
     height: 500px;
+    position: relative;
+    left: 20px;
+    top: 50px;;
 }
-div{
+.colour-box{
     background-color: rgba(0, 0, 0, 70%);
+    width: 1895px;
+    height: 600px;
+}
+.info{
+    width: 750px;
+    text-align: center;
+    position: relative;
+    bottom: 375px;
+    left: 800px;
+    font-size: 30px;
+    color: white;
+    background-color:rgba(246, 190, 0, 90%);
+}
+.wiki{
+    color: white;
+    width: 240px;
+    background-color: rgba(246, 190, 0, 100%);
+    position: relative;
+    top: 20px;
+    left: 800px;
+}
+.wiki:hover{
+    background-color: rgba(0, 0, 225, 70%);
+}
+#dog{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+#name-1{
+    font-size: 20px;
+    position: relative;
+    left: 125px;
+    top: 10px;
+    color: white;
+}
+#charizard{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 400px;
+    bottom: 347px;
+}
+#name-2{
+    font-size: 20px;
+    position: relative;
+    left: 500px;
+    bottom: 352px;
+    color: white; 
+}
+#corviknight{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 770px;
+    bottom: 714px;
+}
+#name-3{
+    font-size: 20px;
+    position: relative;
+    left: 870px;
+    bottom: 720px;
+    color: white;
+}
+#contact-form{
+    color: white;
+    font-size: 20px;
+    width: 300px;
+}
+.underline:hover{
+    color: blue;
+}
+.underline{
+    text-decoration: underline;
+    color: white;
+}
+#inteleon{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 1140px;
+    bottom: 1080px;
+}
+#name-4{
+    font-size: 20px;
+    position: relative;
+    left: 1260px;
+    bottom: 1085px;
+    color: white;
+}
+#eternatus{
+width: 300px;
+height: 300px;
+position: relative;
+left: 1550px;
+bottom: 1447px;
+}
+#name-5{
+    font-size: 20px;
+    position: relative;
+    left: 1660px;
+    bottom: 1452px;
+    color: white;
+}
+.image-link{
+    color: white;
+    width: 255px;
+    background-color: rgba(246, 190, 0, 100%);
+    position: relative;
+    top: 20px;
+    left: 800px;
+}
+.image-link:hover{
+    background-color: blue;
 }
